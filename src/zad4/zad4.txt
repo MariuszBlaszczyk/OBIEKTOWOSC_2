@@ -1,0 +1,9 @@
+Klasa Klawiatura posiada metodę statyczną, która generuje znak.
+Generowanie znaku oparte jest na prostym algorytmie, który najpierw losuje liczbę z przedziału <1,10>.
+Jeżeli wylosowano liczbę parzystą funkcja zwraca znak losowany z przedziału od dużej litery A do dużej litery Z.
+Jeżeli wylosowano liczbę nieparzystą funkcja zwraca znak losowany z przedziału od małej litery a do małej litery z.
+
+Każdy nowo wygenerowany znak dopisywany jest na koniec napisu statycznego znajdującego się w klasie.
+Dodatkowo klasa zawiera metodę, która zwraca wartość napisu statycznego, metodę usuwającą ostatni znak
+z napisu statycznego oraz metodę czyszczącą cały napis statyczny.
+Przetestuj działanie klasy w funkcji głównej programu.

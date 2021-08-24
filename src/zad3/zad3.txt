@@ -1,0 +1,14 @@
+Klasa Składnik zawiera pola nazwa składnika, waga składnika wyrażona w kilogramach oraz cena za kilogram.
+Utwórz dla tej klasy settery i gettery. Nazwa składnika musi składać się tylko i wyłącznie z małych liter.
+Waga składnika oraz cena składnika to zmienna typu double o wartościach większych od zera.
+
+Dodatkowo zaimplementuj konstruktorbezargumentowy – dane pobierane od użytkownika oraz konstruktor argumentowy.
+
+Klasa Produkt zawiera tablicę obiektów klasy Składnik.
+
+Konstruktor bezargumentowy klasy Produkt prosi użytkownika o podanie liczby elementów tablicy
+oraz pobiera wartości pól dla kolejnych składników.
+
+Dodatkowo klasa zawiera metodę obliczającą cenę produktu,
+która jest wyznaczona jako suma cen poszczególnych składników z tablicy powiększona o 15% marży.
+Przetestuj działanie klas w funkcji głównej programu.

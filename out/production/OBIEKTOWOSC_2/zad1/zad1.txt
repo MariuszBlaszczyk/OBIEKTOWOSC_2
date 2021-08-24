@@ -1,0 +1,9 @@
+
+Zaimplementuj klasę abstrakcyjną Figura, która zawiera metodę
+abstrakcyjną pole zwracającą wartość typu double
+oraz metodę wypisz, która wypisuje wartość obliczanego pola.
+Programiści Java / C# mogą zamiast metody wypisz zastosować metodę toString().
+Klasy Prostokat oraz Kolo dziedziczą po klasie Figura. Zaimplementuj dla tych
+klas odpowiednie zmienne
+składowe oraz inne potrzebne metody niezbędne do ich działania. Zastosuj polimorfizm.
+Przetestuj działanie klas w funkcji głównej programu.

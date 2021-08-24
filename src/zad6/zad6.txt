@@ -1,0 +1,6 @@
+Klasa Pacjent posiada pola imię, nazwisko oraz priorytet. Priorytet to liczba int z przedziału <1-5>.
+Należy przewidzieć wszystkie potrzebne metody, które pozwolą zainicjalizować oraz wyświetlić dane pacjenta.
+Następnie należy utworzyć kolejkę priorytetową, która przechowa kolejne obiekty klasy Pacjent.
+Elementy dodawane do kolejki stanowią obiekty utworzone wcześniej przez użytkownika.
+Priorytetem kolejki jest wartość zmiennej priorytet (1 – najwyższy priorytet, 5 – najniższy priorytet).
+Przetestuj działanie klasy i kolejki w funkcji głównej programu.

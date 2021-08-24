@@ -1,0 +1,3 @@
+Mapa zawiera klucz przechowujący w postaci jednego napisu imię i nazwisko ucznia oraz wartość,
+która jest listą ocen, które uczeń uzyskał.
+Należy wypisać z przykładowo wypełnionej mapy ucznia o największej średniej arytmetycznej ocen.

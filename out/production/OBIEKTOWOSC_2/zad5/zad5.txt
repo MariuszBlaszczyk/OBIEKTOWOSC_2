@@ -1,0 +1,12 @@
+Klasa Komunikator zawiera pole składowe przechowujące treść wiadomości do wysłania.
+
+Konstruktor argumentowy pobiera jako argument nazwę pliku tekstowego,
+z którego zapisuje do zmiennej napisowej treść wiadomości.
+
+Klasa posiada metodę, której zadaniem jest walidacja treści wiadomości.
+Walidacja polega na eliminacji z treści wszystkich znaków, które nie są dużą literą, małą literą,
+cyfrą lub białym znakiem. Dodatkowo klasa posiada metodę, która wysyła wiadomość po walidacji.
+
+Należy dopilnować, żeby wysyłanie wiadomości zawsze miało miejsce po walidacji.
+Wysyłanie wiadomości polega na zapisaniu jej do pliku
+tekstowego o nazwie ‘wiadomosc.txt’. Przetestuj działanie klasy w funkcji głównej programu.

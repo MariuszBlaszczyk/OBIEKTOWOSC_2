@@ -1,0 +1,12 @@
+Zaimplementuj klasę Urządzenie, która posiada pola składowe nazwa producenta oraz cena.
+W klasie powinny znajdować się wszystkie metody potrzebne do prawidłowego działania klasy.
+Klasa posiada dodatkowo metodę obliczającą cenę, która w przypadku klasy zwraca
+cenę urządzenia.
+Zaimplementuj klasę pochodną Pralka, która dziedziczy po klasie Urządzenie oraz
+zawiera dodatkowo pola składowe liczba programów prania oraz pojemność.
+
+Klasa Pralka przeładowuje metodę obliczającą cenę. W przypadku pralki cenę
+obliczamy jako cenę podstawową,
+ przechowywaną w polu cena, powiększoną o 100 zł, kiedy liczba programów jest większa
+  od 10 oraz o cenę 200 zł, kiedy pojemność pralki jest liczbą większą od 50.
+  Przetestuj działanie klas w funkcji głównej programu.
